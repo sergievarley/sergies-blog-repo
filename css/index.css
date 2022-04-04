@@ -217,3 +217,11 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+/*footer */
+.mastfoot {
+  color: rgba(255, 255, 255, .5);
+}
+.mt-auto, .my-auto {
+  margin-top: auto!important;
+}
+
